@@ -1,16 +1,38 @@
-## Hi there 👋
+**Hi, I'm Amirhossein**
 
-<!--
-**backend-baz/backend-baz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer.
 
-Here are some ideas to get you started:
+# 💻 My programming tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="left">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend Frameworks</strong></td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="icon" width="65" height="65" />
+      <br>NestJs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="icon" width="65" height="65" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="icon" width="65" height="65" />
+      <br>NodeJs
+    </td>
+  </tr>
+</table>
