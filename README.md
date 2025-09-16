@@ -33,6 +33,10 @@
         <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="icon" width="65" height="65" />
       <br>Golang
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
   </tr>
   <tr>
     <td align="center"><strong>Backend Frameworks</strong></td>
@@ -51,6 +55,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="icon" width="65" height="65" />
       <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="icon" width="65" height="65" />
+      <br>ASP.NET 
     </td>
   </tr>
   <tr>
@@ -85,6 +93,25 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" alt="icon" width="65" height="65" />
       <br>PHPStorm
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools</strong></td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="icon" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="icon" width="65" height="65" />
+      <br>Github
     </td>
   </tr>
 </table>
