@@ -1,8 +1,14 @@
-**Hi, I'm Amirhossein**
+<p align="center">Hi, I'm <strong>Amirhossein</strong></p>
 
-I'm a backend developer.
+- I am a **Computer Engineering student** and a **backend developer** with hands-on experience in designing and implementing server-side logic. 
 
-# 💻 My programming tools
+- My focus is on creating robust and high-performance APIs and services. 
+
+- I am proficient in a stack that includes JavaScript/TypeScript, NestJs, and databases like Postgres. 
+
+- I am constantly exploring new technologies to enhance my development skills and contribute to meaningful projects.
+
+# 💻 My favorite tools and technologies
 
 <table align="left">
   <tr>
