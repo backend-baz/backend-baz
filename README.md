@@ -31,10 +31,6 @@
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="icon" width="65" height="65" />
-      <br>php
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="icon" width="65" height="65" />
       <br>Golang
     </td>
@@ -50,20 +46,12 @@
       <br>NestJs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="icon" width="65" height="65" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="icon" width="65" height="65" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="icon" width="65" height="65" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="icon" width="65" height="65" />
       <br>ASP.NET 
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="icon" width="65" />
+      <br>Gin
     </td>
   </tr>
   <tr>
@@ -83,21 +71,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="icon" width="65" height="65" />
       <br>SQLite
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>IDEs</strong></td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=webstorm&theme=dark" alt="icon" width="65" height="65" />
-      <br>WebStorm
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="icon" width="65" height="65" />
-      <br>IDEA
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" alt="icon" width="65" height="65" />
-      <br>PHPStorm
     </td>
   </tr>
   <tr>
