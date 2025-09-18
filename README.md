@@ -32,11 +32,15 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="icon" width="65" height="65" />
-      <br>Golang
+      <br>Go
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="icon" width="65" height="65" />
       <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="icon" width="65" height="65" />
+      <br/>Python
     </td>
   </tr>
   <tr>
@@ -52,6 +56,10 @@
     <td align="center" width="96">
         <img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="icon" width="65" />
       <br>Gin
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="icon" width="65" height="65" />
+      <br>Django 
     </td>
   </tr>
   <tr>
